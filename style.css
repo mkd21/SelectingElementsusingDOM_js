@@ -1,0 +1,13 @@
+/* Attributes selector */
+
+[alt = "imageTag"]
+{
+    border: 1px solid black;
+    width: 300px;
+}
+
+[target = "_blank"]
+{
+    border: 5px solid red;
+    margin-right: 13px;
+}
